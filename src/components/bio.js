@@ -53,13 +53,6 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Written by <strong>{author}</strong> who lives in NYC.
-        {` `}
-        <a href={`mailto:${social.email}`}>
-          Questions or comments?
-        </a>
-      </p>
     </div>
   )
 }

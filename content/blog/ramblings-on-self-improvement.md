@@ -1,0 +1,52 @@
+---
+title: Ramblings on Self-Improvement
+date: "2017-10-14"
+---
+
+Self improvement involves the following steps:
+
+1. Figure out potential domains of improvement
+2. Calibrate yourself in that domain
+3. Chart out your next steps
+
+Figuring out domains needs you to be open to new experiences and fight the urge to define your comfort zone too early in life
+
+Domains fit into three buckets - health, wealth and spirituality allowing for some overlap and dependencies.
+
+1. Health: swimming, running, lifting, yoga
+2. Wealth: education, career
+3. Spirituality: meditation, yoga
+
+Each of these buckets are filled with the time and effort you invest in them. You can calibrate yourself in every bucket by guessing what percentile you fall in. Ask yourself, where do I stand with respect to the rest of humanity? The 100%ilers in each of these buckets are familiar to us - say Bolt, Gates and Buddha.
+
+Most of us tend to be skewed heavily towards one of the three. For the audience of this post, it's likely 'wealth'. Work towards reducing these skews and it should be possible to reach the 90%ile marker in every bucket.
+
+Efforts that you take in every bucket make progress on other buckets easier. Same holds for domains within every bucket. Yoga improves flexibility which makes it easier to lift heavy. Lifting can improve muscles strength that reduces stain during hiking. Wealth can enable easy access to better health facilities and can free up time. Meditation frees up brain time by training you to not get lost in past regrets and future anxieties. Self awareness gained via spiritual efforts makes it easier to not get dragged into heated arguments. It also helps with self calibration.
+
+When you feel like you've hit your limit, remember that nature operates through phase transitions whereas our brain thinks linearly. Have you experienced an occasion where you've surprised yourself with what you ever able to accomplish when you thought that you couldn't? That's an example of your abilities eclipsing your brain's linear constraints.
+
+> Most people overestimate what can be achieved in 1 year and underestimate what can be achieved in 10 years. — Bill Gates
+
+Phase transitions in a domain are made possible by small inconspicuous wins in related domains. When you hit a plateau while trying to make progress in one of these domains, take a step back and figure out easier wins in related domains.
+
+While charting out next steps for improvement, remember to focus on setting up systems rather than goals. What new habit can I imbibe rather than what next goal can I hit? Set up systems and celebrate goals.
+
+What systems to set up requires some research. Learn from the Internet and the people around you. Learning from people directly is hard because most people are unaware of what contributes to their own successes. Here it helps to know what questions to ask to tease out learnings from people you converse with. Asking good questions requires active listening. Active listening requires fighting the urge to figure out what your contribution to the conversation is going to be.
+
+Our societal obsession with small talk also makes it harder to learn from each other. Be the example here. Open up, answer honestly and from the heart. Humans have a tendency to mirror each other and seek social proof for actions. You can be the one who provides that social proof. It's ok to say you are having a hard time. It's ok to describe why. Be nonchalant while doing so. People will mimic you and follow suit. The end result is a more genuine interaction. A better use of time. Some will hesitate. That's fine too. It's hard to open up. Allow them the time.
+
+In the process of self improvement, failures are inevitable. Failures are information transfer mechanisms. They are a critical precursor to step 2 and 3. They make it easier to figure out what next steps you should be focusing on. They are hard to deal with though because our emotions get entangled in them. Our ego is hurt. If only we weren't slaves to our egos..
+
+Growing up in modern human societies fattens our ego and our identity. I was a Hindu, an Indian, a Mumbaikar, a Marathi even before I could speak. Our identity tends to collect more and more traits as we grow up. Many of these traits are slapped on by our social up bringing rather than via a concerted conscious effort on our part. The later your ego, the easier it is for your ego to be hurt. The more you identify with things, the more fiercely you will defend them. The only difference between a debate and an argument is a sense of identity. Arguments are a waste of time. Time is truly the only resource you have. Save time. Whittle down your ego. Next time you get into an argument, take a step back. Ask yourself why your emotions are rising. What aspect of your ego is causing your emotions to rise up to its defense. Is this aspect something that you truly want to incorporate in your identity? Or is it just something that you picked up along the way? If it's the latter, shed it. Put your ego on a diet. On a spiritual diet.
+
+If failures hurt you, that means there are things you can do to improve spiritually. The end result isn't a robotic emotionless being. It's someone who is at peace with failures and successes.
+
+Of the three buckets, spirituality has the least obvious effort-fruits relationship. How the fuck do breathing exercises help you diminish your ego?
+
+The answer is unknown. I believe it has something to do with living in the present. Focusing on your breathing is the easiest way there is to focus on the present moment. Once you focus on the present moment, your ego is handicapped. Your ego thrives on the slights and regrets of the past and the anxieties of the future. Focusing your attention on the present moment is your weapon against your ego.
+
+The weaker your ego becomes, the quicker you recover emotionally from failures and embarrassments. The quicker you recover, the more information you can gather from that event. The more information you gather, the easier it is to calibrate and figure out next steps.
+
+People can aid you in figuring out next steps for self improvement in specific domains. Seek people who were at your state a few years ago and are now better than you in that domain. Learn from their mistakes. A word of caution while seeking advice. If you want to be amongst the best in a domain, a majority of the advice you get will naturally be mediocre. Be picky when imbibing advice. The best coaches are the ones who listen carefully, take their time to understand you and then help you figure out the one thing you should focus on to improve. Seek the best coaches.
+
+This was a short article I wrote for the annual magazine of Greater New York Chapter, IIT Bombay Alumni Association. The theme was 'Reflections’. You can find the PDF [here](https://www.iitbgnychapter.org/gNYpoints/gNYpoint-2017.pdf).

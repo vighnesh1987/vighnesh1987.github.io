@@ -1,8 +1,7 @@
 ---
-title: An elevator* pitch for Vipassana
+title: An elevator pitch for Vipassana
 date: "2018-05-31"
 ---
-
 
 Our senses are our doorway to the world. External information and triggers flow in through them. These triggers generate sensations on the sensory doors.
 The egotic mind reacts to sensations with cravings or aversions.
@@ -16,7 +15,7 @@ Over the ages, we have devised many modes of ‘battling stress’. Watching mov
 
 These modes serve as much needed oases of mental distraction before we lapse back into our usual stressful life.
 
-These modes come with their own costs in the form of time, money and constraints in the form of location, company, occasion, etc. You need to commit 3h for a movie, pay $10 for the ticket and need to physically go to a theatre to watch it. Sometimes as the cravings for a specific mode strengthen, one may reduce constraints and thereby build addiction. Instead of waiting for a happy hour to start drinking, you pop open a bottle of wine every evening with dinner, thereby loosening the constraint to indulge the craving. Instead of going to a theatre for a movie, you get a Netflix subscription and watch one every other evening.
+These modes come with their own costs in the form of time, money and constraints in the form of location, company, occasion, etc. You need to commit 3h for a movie, pay \$10 for the ticket and need to physically go to a theatre to watch it. Sometimes as the cravings for a specific mode strengthen, one may reduce constraints and thereby build addiction. Instead of waiting for a happy hour to start drinking, you pop open a bottle of wine every evening with dinner, thereby loosening the constraint to indulge the craving. Instead of going to a theatre for a movie, you get a Netflix subscription and watch one every other evening.
 
 This loosening of constraints is catalyzed by Capitalism. Capitalism fuels itself with Growth. Growth requires Consumerism. Consumerism survives by loosening the constraints of consumption.
 
@@ -47,7 +46,6 @@ The technique relies on scanning your body from head to toe and noticing sensati
 Since coming back from Vipassana, I’ve tried to stick to the recommended 1h per morning and evening sittings to train in this technique with abject failure. Funnily enough, I’ve not meditated much at all since returning because I’d tell myself to do Vipassana and end up doing nothing. I realized that I had found it easier to build a Headspace/MBSR focussed meditation practice because I had gotten addicted to that mental distraction mode. I would crave the tingly body scan and the mental release at the end when Andy Puddicombe instructs you to let go of your mind and allow it to do what it wants to do and your mind just settles down calmly like a puppy that’s been tugging at a leash because you were holding onto it but doesn’t know what to do once you let go of the leash.
 
 Building Vipassana as a habit is going to be much harder because I can’t rely on the craving to build a habit. Weirdly enough, my main motivation to build a Vipassana practice seems Egotic in nature. It’s the desire to attain enlightenment because “holy crap, wouldn’t that be sick?!”. I sometimes wonder if the Ego could be led to its own demise by indulging in this specific Egotic desire. I am afraid that everything I’ve learnt about the Ego tells me that it’s a very smart beast and won’t be fooled so easily. I suspect that at some point, I’ll have to find a stronger motivation to continue Vipassana because Egotic motivations are accompanied by impatience because they focus on the end result in the future instead of the process in the present. Impatience is the most common and strongest foe I face in many endeavors.
-
 
 The elevator featured in the title of this article is an internal one that operates in FBNY.
 
