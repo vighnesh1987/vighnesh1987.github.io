@@ -66,6 +66,8 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {` `}by{` `}
+          <a href="mailto:vighnesh.rege@gmail.com">Vighnesh Rege</a>
         </footer>
       </div>
     )
